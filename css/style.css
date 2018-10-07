@@ -42,8 +42,12 @@ figcaption {
  background: aqua;
 }
 
-/* Descendent Selector */ 
+/* Descendent Selector */
 
 #logo h1 { /* selects <h1> if inside the id="logo" */
-  
+  font-family: 'Clocker Script', cursive;
+}
+
+#logo h2 {
+  font-family: 'Elsie Swash Caps', cursive;
 }
