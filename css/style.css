@@ -1,6 +1,6 @@
-/* This 
-is 
-a comment! */ 
+/* This
+is
+a comment! */
 
 /* CSS Syntax:
 
@@ -15,4 +15,5 @@ selector {
 
 p { /* select all <p> */
   font-size: 16PX; /* 16PX, ?PT, 100%, 1em */
+  line-height: 1.5em; 
 }
