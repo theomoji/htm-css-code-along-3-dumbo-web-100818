@@ -15,7 +15,7 @@ selector {
 
 p { /* select all <p> */
   font-size: 16PX; /* 16PX, ?PT, 100%, 1em */
-  line-height: 1.5em; 
+  line-height: 1.5em;
 }
 
 figcaption {
